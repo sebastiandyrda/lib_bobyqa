@@ -1,0 +1,9 @@
+name = "bobyqa"
+
+[library]
+source-dir="src"
+
+[[ test ]]
+name="runTests"
+source-dir="tests"
+main="test_bobyqa.f90"
